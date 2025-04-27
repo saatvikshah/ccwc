@@ -1,0 +1,21 @@
+# Ignore build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore compile database (optional)
+compile_commands.json
+
+# Ignore executables (optional if you build outside source)
+/hello_world
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
+
+# MacOS junk
+.DS_Store
+
+# Backup files
+*~
