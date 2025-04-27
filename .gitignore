@@ -5,6 +5,8 @@ CMakeCache.txt
 cmake_install.cmake
 Makefile
 
+resources
+
 # Ignore compile database (optional)
 compile_commands.json
 
